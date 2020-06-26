@@ -1,0 +1,16 @@
+PODS:
+  - FloatingButton (0.0.1)
+
+DEPENDENCIES:
+  - FloatingButton
+
+SPEC REPOS:
+  trunk:
+    - FloatingButton
+
+SPEC CHECKSUMS:
+  FloatingButton: 8ef7f8c8b5fa12b4664ed78d53b1d24cbc83a727
+
+PODFILE CHECKSUM: 67323b5d4bfcb87c454947ae7f7a2aa64c4f84e7
+
+COCOAPODS: 1.9.3
